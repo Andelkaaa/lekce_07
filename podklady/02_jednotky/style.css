@@ -1,6 +1,7 @@
 /* moderní box model */
 html {
     box-sizing: border-box;
+    background-color: cornflowerblue;
 }
 
 *,

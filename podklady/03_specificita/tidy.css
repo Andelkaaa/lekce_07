@@ -6,3 +6,29 @@
 h1 {
     color: lime;
 }
+
+ol.list {
+    background-color: #fff;
+}
+
+ol.mess-list #tools {
+    background-color: #fff;
+}
+
+ol li#wrench {
+    background-color:#fff;
+    color: black;
+}
+
+.list em.tip {
+    color: dodgerblue
+}
+
+ol.list-item {
+    background-color: #fff;
+}
+
+* {
+    background-color: #fff !important;
+    color: black !important;
+}
